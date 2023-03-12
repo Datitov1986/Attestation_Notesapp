@@ -1,0 +1,23 @@
+2023-03-12 09-11-40	[ERROR]	Database is corrupted or missing
+2023-03-12 09-11-40	[DEBUG]	Create new database
+2023-03-12 09-13-16	[ERROR]	Database is corrupted or missing
+2023-03-12 09-13-16	[DEBUG]	Create new database
+2023-03-12 09-17-20	[ERROR]	Database is corrupted or missing
+2023-03-12 09-17-20	[DEBUG]	Create new database
+2023-03-12 09-18-24	[ERROR]	Database is corrupted or missing
+2023-03-12 09-18-24	[DEBUG]	Create new database
+2023-03-12 09-18-33	[ERROR]	Database is corrupted or missing
+2023-03-12 09-18-33	[DEBUG]	Create new database
+2023-03-12 09-24-25	[ERROR]	Database is corrupted or missing
+2023-03-12 09-24-25	[DEBUG]	Create new database
+2023-03-12 09-24-41	[ERROR]	Database is corrupted or missing
+2023-03-12 09-24-41	[DEBUG]	Create new database
+2023-03-12 09-24-46	[ERROR]	Database is corrupted or missing
+2023-03-12 09-24-46	[DEBUG]	Create new database
+2023-03-12 09-24-46	[DEBUG]	You don't get title and message
+2023-03-12 09-31-10	[DEBUG]	You don't get title and message
+2023-03-12 09-31-33	[DEBUG]	You don't get title and message
+2023-03-12 09-33-24	[DEBUG]	You don't get title and message
+2023-03-12 09-34-40	[DEBUG]	You don't get title and message
+2023-03-12 09-36-19	[DEBUG]	You don't get title and message
+2023-03-12 09-36-38	[DEBUG]	You don't get title and message
